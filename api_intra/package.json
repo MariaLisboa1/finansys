@@ -16,7 +16,7 @@
     "mssql": "^4.3.2",
     "pg": "^7.8.0",
     "restify": "6.3.4",
-    "sequelize": "^4.42.0",
+    "sequelize": "^5.15.1",
     "swagger-jsdoc": "^3.2.7"
   },
   "devDependencies": {
